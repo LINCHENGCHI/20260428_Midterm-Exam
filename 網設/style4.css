@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrap{
+    width: 500px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: #ccc;
+    margin: 30px auto;
+    position: relative
+}
+p{
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+#pos{
+    background-color: red;
+    width: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    right: -40px;
+    z-index: -1;
+}

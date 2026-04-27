@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSSDocument */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrap{
+    /*box-sizing: content-box; /*預設*/
+    box-sizing: border-box;
+    width: 960px;
+    margin: 30px auto;
+    background-color: #ccc;
+}
+
+#header{
+    background-color: red;
+}
+#cont1{
+    box-sizing: border-box;
+    border: 1px solid red;
+    padding: 10px;
+    background-color: yellow;
+    width: 300px;
+    float: left;
+}
+#cont2{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: green;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#cont3{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: blue;
+    width: 300px;
+    float: left;
+}
+#footer{
+    background-color: #f0f;
+    clear: left;
+}
