@@ -1,0 +1,14 @@
+C:\Users\DerpAKA696\Desktop\t1\bin\Debug\net10.0\t1.exe
+C:\Users\DerpAKA696\Desktop\t1\bin\Debug\net10.0\t1.deps.json
+C:\Users\DerpAKA696\Desktop\t1\bin\Debug\net10.0\t1.runtimeconfig.json
+C:\Users\DerpAKA696\Desktop\t1\bin\Debug\net10.0\t1.dll
+C:\Users\DerpAKA696\Desktop\t1\bin\Debug\net10.0\t1.pdb
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.AssemblyInfoInputs.cache
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.AssemblyInfo.cs
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.csproj.CoreCompileInputs.cache
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.dll
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\refint\t1.dll
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.pdb
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\t1.genruntimeconfig.cache
+C:\Users\DerpAKA696\Desktop\t1\obj\Debug\net10.0\ref\t1.dll
